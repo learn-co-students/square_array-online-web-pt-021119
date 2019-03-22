@@ -1,3 +1,9 @@
+square_array["1", "2", "3"]
+  square_array.each do |square**2|
+  puts #{square}
+
+
+
 describe '#square_array' do
 
   it 'does not call on collect/map or inject' do
